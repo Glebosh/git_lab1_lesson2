@@ -1,1 +1,3 @@
 Master ветка не имеет отличий от demo
+В Stale branches 45 коммитов на всех ветках:
+Коммиты для main: init, README added, fix readme
