@@ -1,3 +1,8 @@
 Master ветка не имеет отличий от demo
-В Stale branches 45 коммитов на всех ветках:
+17 коммитов разработчика на всех ветках
+
 Коммиты для main: init, README added, fix readme
+Коммиты для hat: init, heat added
+Коммиты для boots: init, boots
+Коммиты для buttons: init, README added, dots
+Коммиты для demo: init, heat added, boots, Merge branch 'boots' into release, README added, dots, Merge branch 'buttons' into demo
